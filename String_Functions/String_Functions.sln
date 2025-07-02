@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "String_Functions", "String_Functions\String_Functions.pyproj", "{61F0EC46-8CC5-4956-8C5A-431A0C99E4BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61F0EC46-8CC5-4956-8C5A-431A0C99E4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F0EC46-8CC5-4956-8C5A-431A0C99E4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {194998D8-3326-4699-838A-55A0D1C722E2}
+	EndGlobalSection
+EndGlobal
